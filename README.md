@@ -8,7 +8,7 @@
 
 ## 📁 Данные
 
-- **Источник**: [AI Generated Essays Dataset](https://www.kaggle.com/datasets/behhappy456/ai-generated-essays-dataset) на Kaggle.
+- **Источник**: [AI Generated Essays Dataset](https://www.kaggle.com/datasets/denvermagtibay/ai-generated-essays-dataset) на Kaggle.
 - **Размер**: Более 1000 текстов.
 - **Колонки**:
   - `text`: Текст эссе.
